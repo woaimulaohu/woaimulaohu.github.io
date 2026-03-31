@@ -1,0 +1,1 @@
+import{_ as e}from"./Layout-EL-cv-hh.js";import{o as a,c as n,k as s}from"./vendor-vue-D4i-xorE.js";const t={},c={class:"loading"};function r(d,o){return a(),n("div",c,[...o[0]||(o[0]=[s("div",{class:"pulse-dots"},[s("span"),s("span"),s("span")],-1)])])}const i=e(t,[["render",r],["__scopeId","data-v-3c430f04"]]);export{i as L};
