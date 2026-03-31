@@ -1,0 +1,1 @@
+import{_ as o}from"./Layout-DwRoZdNg.js";import{b as a,f as n,e as s}from"./index-Bcc2Hvt5.js";const t={},c={class:"loading"};function r(d,e){return a(),n("div",c,[...e[0]||(e[0]=[s("div",{class:"pulse-dots"},[s("span"),s("span"),s("span")],-1)])])}const i=o(t,[["render",r],["__scopeId","data-v-3c430f04"]]);export{i as L};
